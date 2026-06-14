@@ -1,4 +1,6 @@
-word_list=["laptop", "phone", "office"]
+from hangman_word import word_list
+word_list=word_list
+
 
 import random
 
