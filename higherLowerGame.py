@@ -1,5 +1,5 @@
 from art import logo, vs
-from famous_personality import famous_people_instagram
+from famous_people_dict import famous_people_instagram
 print("lower higher \n")
 
 print(logo)
